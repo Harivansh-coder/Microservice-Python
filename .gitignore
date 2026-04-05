@@ -1,0 +1,8 @@
+.env
+*.md
+Makefile
+*.log
+*.bak
+*.tmp
+*.swp
+*.swo
